@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace StepType;
 
-public sealed class Step : IStep
+public class Step : IStep
 {
 	private readonly Settings _settings;
 	private readonly IStepContext _context;
