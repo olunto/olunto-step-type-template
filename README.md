@@ -1,1 +1,0 @@
-# plunto-step-type-template

@@ -1,0 +1,17 @@
+﻿{
+	"MainDll": "HttpOutput.dll",
+	"Width": 800,
+	"Height": 500,
+	"Inboxes": [
+		{
+			"InboxId": "Inbox1",
+			"Name": "Inbox One"
+		}
+	],
+	"Outboxes": [
+		{
+			"OutboxId": "Outbox1",
+			"Name": "Outbox One"
+		}
+	]
+}
