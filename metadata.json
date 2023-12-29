@@ -4,13 +4,13 @@
 	"Height": 500,
 	"Inboxes": [
 		{
-			"InboxId": "Inbox1",
+			"InboxId": "inbox",
 			"Name": "Inbox"
 		}
 	],
 	"Outboxes": [
 		{
-			"OutboxId": "Outbox1",
+			"OutboxId": "outbox",
 			"Name": "Outbox"
 		}
 	]
