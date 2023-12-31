@@ -1,4 +1,8 @@
 ﻿{
+	"StepTypeId": "-",
+	"Name": "Step Type",
+	"OrganizationId": "-",
+	"OrganizationId": "-",
 	"MainDll": "StepType.dll",
 	"Width": 800,
 	"Height": 500,
