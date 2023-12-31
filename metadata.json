@@ -2,7 +2,7 @@
 	"StepTypeId": "-",
 	"Name": "Step Type",
 	"OrganizationId": "-",
-	"OrganizationId": "-",
+	"OrganizationName": "-",
 	"MainDll": "StepType.dll",
 	"Width": 800,
 	"Height": 500,
