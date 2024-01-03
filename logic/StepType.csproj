@@ -19,7 +19,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="plunto-app-engine-prd" Version="2023.1228.1401.4090" />
+	  <PackageReference Include="olunto-app-engine-prd" Version="2024.103.1334.4291" />
 	</ItemGroup>
 
 </Project>

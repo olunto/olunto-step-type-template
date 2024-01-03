@@ -44,6 +44,6 @@ public class Step : IStep
 
 		// output
 
-		await _context.OutputAsync(row, "Outbox1");
+		await _context.OutputAsync(row, "outbox");
 	}
 }
